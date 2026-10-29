@@ -1,0 +1,11 @@
+Important: These coordinates are only a small illustrative closed profile. They are not a validated compressor blade. Replace them with real blade coordinates obtained from your CAD model, published geometry, or your own design.
+
+Instructions:
+
+1. Use metres for both x and y.
+2. Enter points consecutively around the blade boundary.
+3. The first and last points should meet to close the profile.
+4. Use enough points to represent the leading edge, trailing edge, suction surface, and pressure surface smoothly.
+5. Confirm that the geometry is closed, has no self-intersections, and matches the intended chord and stagger angle.
+
+If your CAD system exports millimetres, convert the coordinates to metres before using this file.
